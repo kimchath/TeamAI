@@ -6,7 +6,7 @@
 * ##### Mem : Nguyễn Đức Hoàng(SE160868)  [@hoangnd167](https://www.facebook.com/hoangnd167)
 * ##### Mem : Nguyễn Lương Hà(SE160872)  [@nguyenluongha2002](https://www.facebook.com/nguyenluongha2002)
 ### Goals
-##### 1. Knơwledge trade
+##### 1. Knowledge trade
 ##### 2. Get high score
 ##### 3. Golden Frog([@helsinki2103](https://www.facebook.com/helsinki2103))
 ### Slogan: "Be best frogs of K16"([@helsinki2103](https://www.facebook.com/helsinki2103))
