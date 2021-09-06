@@ -1,6 +1,6 @@
 # Dracular Theme for Netbeans
 ### 1. Install Code font
-##### Tools --> Options --> Fonts and color --> Import Dracular.zip
+##### Tools --> Options --> Fonts and color --> Import --> Choose Dracular.zip
 ### 2. Install Appearance font
 ##### Tools --> Plugins --> Downloaded --> Add Plugins... --> Import 1501524971_nb-darcula-1.6.nbm
 ### 3. Result 
