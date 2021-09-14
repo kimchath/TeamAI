@@ -5,7 +5,7 @@
 ##### Những chỗ nào cảm thấy bị lủng thì nên xem nhanh qua những cái căn bản.
 ##### Dành cho những anh em đã có sẵn nền tảng lập trình.
 # Turtorial
-### Omachi :  [HTML5 CSS3 - Code dạo ](https://www.youtube.com/watch?v=YtYcYRsODmI)
+### Omachi :  [HTML5 CSS3 JS- Code dạo ](https://www.youtube.com/watch?v=YtYcYRsODmI)
 ### Hảo hảo : [Bootstrap HTML5 CSS3 - Nguyen Duc Hoang](https://www.youtube.com/watch?v=LMnJG3Oxrrw)
 ### Kokomi :  [Flexbox - Evondev](https://www.youtube.com/watch?v=i4z7PIlvJkg) 
 
